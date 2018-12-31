@@ -62,5 +62,6 @@ a
 | **Status**  | **Nome/Repositório**  | **Obs.**  |
 |---|---|---|
 | Outros |  [Você não precisa de jQuery](https://github.com/josemalcher/You-Dont-Need-jQuery/blob/master/README.pt-BR.md)  |  GitHub |
+| Outros |  [Difference between jQuery and Vue.js](https://medium.com/@muthuks/difference-between-jquery-and-vue-js-af5a61500094)  |  Medium |
 
 ------------
