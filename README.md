@@ -61,6 +61,6 @@ a
 
 | **Status**  | **Nome/Repositório**  | **Obs.**  |
 |---|---|---|
-| **_%_** |  []()  |   |
+| Outros |  [Você não precisa de jQuery](https://github.com/josemalcher/You-Dont-Need-jQuery/blob/master/README.pt-BR.md)  |  GitHub |
 
 ------------
