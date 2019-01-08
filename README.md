@@ -1,5 +1,5 @@
 # LAB HTML CSS JS
-a
+
 ## Projetos Práticos | Sistemas Desenvolvidos
 
 | **Status**  | **Nome/Repositório**  | **Obs.**  |
@@ -15,6 +15,7 @@ a
 | **_0%_** |    [The FreeCodeCamp Curriculum](https://github.com/josemalcher/freeCodeCamp-curriculum)  | FreeCodeCamp |
 | **_100%_** |  [Plano de Estudos: Node iniciante](https://github.com/josemalcher/schoolofNet-Node_iniciante)  |  School of Net  |
 | **_70%_** |   [Plano de Estudo - Frontend Developer](https://github.com/josemalcher/SchoolOfNet-plano-de-estudo-frontend-developer)  |  School of Net  |
+| **_0%_** |    [Plano de Estudo - Desenvolvedor Vue.js](https://github.com/josemalcher/Desenvolvedor-Vue.js)  |  School of Net  |
 | **_0%_** |    [Iniciando com Vue.js 2](https://github.com/josemalcher/SchoolOfNet-Iniciando-com-Vue.js-2)  |  School of Net  |
 | **_100%_** |  [CSS Basico](https://github.com/josemalcher/shoolofnet_CSS_basico_atuali_2)  |  School of Net  |
 | **_100%_** |  [Iniciando com Jquery 3](https://github.com/josemalcher/schoolofnet-Iniciando-com-Jquery-3)  |  School of Net  |
