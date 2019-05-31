@@ -12,6 +12,7 @@
 
 | **Status**  | **Nome/Repositório**  | **Obs.**  |
 |---|---|---|
+| **_1%_** |    [Curso Web Moderno com JavaScript 2019! COMPLETO + Projetos](https://github.com/josemalcher/Curso-Web-Moderno-com-JavaScript-2019-COMPLETO-Projetos)  |  Udemy  |
 | **_100%_** |  [Plano de Estudos: Node iniciante](https://github.com/josemalcher/schoolofNet-Node_iniciante)  |  School of Net  |
 | **_100%_** |  [CSS Basico](https://github.com/josemalcher/shoolofnet_CSS_basico_atuali_2)  |  School of Net  |
 | **_100%_** |  [Iniciando com Jquery 3](https://github.com/josemalcher/schoolofnet-Iniciando-com-Jquery-3)  |  School of Net  |
