@@ -38,23 +38,30 @@
 
 | **Status**  | **Nome/Repositório**  | **Obs.**  |
 |---|---|---|
+| **_0%_**  |   [Carreira em JavaScript - Curso JavaScript Básico](https://#)  |  Especializa TI |
+| **_0%_**  |   [Carreira em JavaScript - JavaScript Manipulação do DOM e Eventos](https://#)  |  Especializa TI |
+| **_0%_**  |   [Carreira em JavaScript - Curso JavaScript Avançado Objetos e Funções](https://#)  |  Especializa TI |
+| **_0%_**  |   [Carreira em JavaScript - Curso JavaScript ES6](https://#)  |  Especializa TI |
+| **_0%_**  |   [Carreira em JavaScript - JavaScript Event Loop](https://#)  |  Especializa TI |
+| **_0%_**  |   [Carreira em JavaScript - Curso JavaScript Real (NPM, Webpack, ES6)](https://#)  |  Especializa TI |
+| **_0%_**  |   [Carreira em JavaScript - Curso de Vue JS 2](https://#)  |  Especializa TI |
 | **_10%_** |   [The FreeCodeCamp Curriculum](https://github.com/josemalcher/freeCodeCamp-curriculum)  | FreeCodeCamp - 7 Módulos |
-| **_40%_**  |  [Entendendo o ECMAScript 6](https://github.com/josemalcher/udemy-Entendendo-o-ECMAScript-6)  |  UDEMY  |
+| **_40%_** |   [Entendendo o ECMAScript 6](https://github.com/josemalcher/udemy-Entendendo-o-ECMAScript-6)  |  UDEMY  |
 | **_90%_** |   [JavaScript-Ninja](https://github.com/josemalcher/udemy-Curso-JavaScript-Ninja)  |  UDEMY  |
 | **_5%_** |    [Mean primeira aplicacao do zero](https://github.com/josemalcher/mean-primeira-aplicacao-do-zero)  |  UDEMY  |
 | **_1%_** |    [Curso Web Moderno com JavaScript 2019! COMPLETO + Projetos](https://github.com/josemalcher/Curso-Web-Moderno-com-JavaScript-2019-COMPLETO-Projetos)  |  UDEMY  |
+| **_100%_** |  [JavaScript para Iniciantes](https://github.com/josemalcher/curso-asolocoesweb-JAVASCRIPT-PARA-INICIANTES)  |  ASoluções Web  |
+| **_2%_** |    [Node.js para iniciantes](https://github.com/josemalcher/NodeBR-NodeJS-para-iniciantes)  |  Comunidade NodeBR  |
+| **_70%_** |   [Plano de Estudo - Frontend Developer](https://github.com/josemalcher/SchoolOfNet-plano-de-estudo-frontend-developer)  |  School of Net  |
 | **_100%_** |  [Plano de Estudos: Node iniciante](https://github.com/josemalcher/schoolofNet-Node_iniciante)  |  School of Net  |
 | **_100%_** |  [CSS Basico](https://github.com/josemalcher/shoolofnet_CSS_basico_atuali_2)  |  School of Net  |
 | **_100%_** |  [Iniciando com Jquery 3](https://github.com/josemalcher/schoolofnet-Iniciando-com-Jquery-3)  |  School of Net  |
-| **_100%_** |  [JavaScript para Iniciantes](https://github.com/josemalcher/curso-asolocoesweb-JAVASCRIPT-PARA-INICIANTES)  |  ASoluções Web  |
-| **_100%_** |  [jQuery: Domine a biblioteca mais popular do mercado](https://github.com/josemalcher/ALURA-Curso-jQuery-Domine-a-biblioteca-mais-popular-do-mercado)  |  ALURA  |
-| **_70%_** |   [Plano de Estudo - Frontend Developer](https://github.com/josemalcher/SchoolOfNet-plano-de-estudo-frontend-developer)  |  School of Net  |
-| **_5%_** |    [jQuery: Avance na biblioteca mais popular do mercado parte 2](https://github.com/josemalcher/jQuery-Avance-na-biblioteca-mais-popular-do-mercado-parte-2)  |  ALURA  |
-| **_2%_** |    [Node.js para iniciantes](https://github.com/josemalcher/NodeBR-NodeJS-para-iniciantes)  |  Comunidade NodeBR  |
 | **_0%_** |    [Plano de Estudo - Desenvolvedor Vue.js](https://github.com/josemalcher/Desenvolvedor-Vue.js)  |  School of Net  |
 | **_0%_** |    [Iniciando com Vue.js 2](https://github.com/josemalcher/SchoolOfNet-Iniciando-com-Vue.js-2)  |  School of Net  |
 | **_0%_** |    [Administracao de CRUD com jQuery](https://github.com/josemalcher/schoolofnet-Administracao-de-CRUD-com-jQuery)  |  School of Net  |
 | **_0%_** |    [jQuery DataTables](https://github.com/josemalcher/schoolofnet-jQuery-DataTables)  |  School of Net  |
+| **_100%_** |  [jQuery: Domine a biblioteca mais popular do mercado](https://github.com/josemalcher/ALURA-Curso-jQuery-Domine-a-biblioteca-mais-popular-do-mercado)  |  ALURA  |
+| **_5%_** |    [jQuery: Avance na biblioteca mais popular do mercado parte 2](https://github.com/josemalcher/jQuery-Avance-na-biblioteca-mais-popular-do-mercado-parte-2)  |  ALURA  |
 
 ------------
 
