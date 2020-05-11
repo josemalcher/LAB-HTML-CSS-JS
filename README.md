@@ -38,8 +38,8 @@
 
 | **Status**  | **Nome/Repositório**  | **Obs.**  |
 |---|---|---|
-| **_0%_**  |   [Carreira em JavaScript - Curso JavaScript Básico](https://#)  |  Especializa TI |
-| **_0%_**  |   [Carreira em JavaScript - JavaScript Manipulação do DOM e Eventos](https://#)  |  Especializa TI |
+| **_100%_**  |   [Carreira em JavaScript - Curso JavaScript Básico](https://github.com/josemalcher/Carreira_em_JavaScript-Curso_JavaScript_Basico)  |  Especializa TI |
+| **_0%_**  |   [Carreira em JavaScript - JavaScript Manipulação do DOM e Eventos](https://github.com/josemalcher/CARREIRA-JS-JavaScript_Manipulacao_do_DOM_e_Eventos)  |  Especializa TI |
 | **_0%_**  |   [Carreira em JavaScript - Curso JavaScript Avançado Objetos e Funções](https://#)  |  Especializa TI |
 | **_0%_**  |   [Carreira em JavaScript - Curso JavaScript ES6](https://#)  |  Especializa TI |
 | **_0%_**  |   [Carreira em JavaScript - JavaScript Event Loop](https://#)  |  Especializa TI |
