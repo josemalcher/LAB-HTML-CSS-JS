@@ -41,8 +41,8 @@
 | **_100%_**  |   [Carreira em JavaScript - Curso JavaScript Básico](https://github.com/josemalcher/Carreira_em_JavaScript-Curso_JavaScript_Basico)  |  Especializa TI |
 | **_100%_**  |   [Carreira em JavaScript - JavaScript Manipulação do DOM e Eventos](https://github.com/josemalcher/CARREIRA-JS-JavaScript_Manipulacao_do_DOM_e_Eventos)  |  Especializa TI |
 | **_100%_**  |   [Carreira em JavaScript - Curso JavaScript Avançado Objetos e Funções](https://github.com/josemalcher/Carreira-em-JavaScript-Curso_JavaScript_Avancado_Objetos_e_Funcoes)  |  Especializa TI |
-| **_1%_**  |   [Carreira em JavaScript - Curso JavaScript ES6](https://github.com/josemalcher/Carreira-em-JavaScript-Curso_JavaScript_ES6)  |  Especializa TI |
-| **_0%_**  |   [Carreira em JavaScript - JavaScript Event Loop](https://#)  |  Especializa TI |
+| **_100%_**  |   [Carreira em JavaScript - Curso JavaScript ES6](https://github.com/josemalcher/Carreira-em-JavaScript-Curso_JavaScript_ES6)  |  Especializa TI |
+| **_100%_**  |   [Carreira em JavaScript - JavaScript Event Loop](https://https://github.com/josemalcher/CARREIRA-JS-JavaScript_Event_Loop)  |  Especializa TI |
 | **_0%_**  |   [Carreira em JavaScript - Curso JavaScript Real (NPM, Webpack, ES6)](https://#)  |  Especializa TI |
 | **_0%_**  |   [Carreira em JavaScript - Curso de Vue JS 2](https://#)  |  Especializa TI |
 | **_10%_** |   [The FreeCodeCamp Curriculum](https://github.com/josemalcher/freeCodeCamp-curriculum)  | FreeCodeCamp - 7 Módulos |
