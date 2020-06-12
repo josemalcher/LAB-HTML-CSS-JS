@@ -44,7 +44,7 @@
 | **_100%_**  |   [Carreira em JavaScript - Curso JavaScript ES6](https://github.com/josemalcher/Carreira-em-JavaScript-Curso_JavaScript_ES6)  |  Especializa TI |
 | **_100%_**  |   [Carreira em JavaScript - JavaScript Event Loop](https://https://github.com/josemalcher/CARREIRA-JS-JavaScript_Event_Loop)  |  Especializa TI |
 | **_100%_**  |   [Carreira em JavaScript - Curso JavaScript Real (NPM, Webpack, ES6)](https://github.com/josemalcher/CARREIRA_JS_Curso_JavaScript_Real)  |  Especializa TI |
-| **_0%_**  |   [CURSO JAVASCRIPT - APLICAÇÕES PRÁTICAS](https://#)  |  Especializa TI |
+| **_100%_**  |   [CURSO JAVASCRIPT - APLICAÇÕES PRÁTICAS](https://#)  |  Especializa TI |
 | **_0%_**  |   [Carreira em JavaScript - Curso de Vue JS 2](https://#)  |  Especializa TI |
 | **_10%_** |   [The FreeCodeCamp Curriculum](https://github.com/josemalcher/freeCodeCamp-curriculum)  | FreeCodeCamp - 7 Módulos |
 | **_40%_** |   [Entendendo o ECMAScript 6](https://github.com/josemalcher/udemy-Entendendo-o-ECMAScript-6)  |  UDEMY  |
