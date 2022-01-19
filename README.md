@@ -48,9 +48,10 @@
 | **_85%_**  |   [Carreira em JavaScript - Curso de Vue JS 2](https://github.com/josemalcher/especializati_vue2)  |  Especializa TI |
 | **_10%_** |   [The FreeCodeCamp Curriculum](https://github.com/josemalcher/freeCodeCamp-curriculum)  | FreeCodeCamp - 7 Módulos |
 | **_40%_** |   [Entendendo o ECMAScript 6](https://github.com/josemalcher/udemy-Entendendo-o-ECMAScript-6)  |  UDEMY  |
-| **_90%_** |   [JavaScript-Ninja](https://github.com/josemalcher/udemy-Curso-JavaScript-Ninja)  |  UDEMY  |
+| **_100%_** |   [JavaScript-Ninja](https://github.com/josemalcher/udemy-Curso-JavaScript-Ninja)  |  UDEMY  |
 | **_5%_** |    [Mean primeira aplicacao do zero](https://github.com/josemalcher/mean-primeira-aplicacao-do-zero)  |  UDEMY  |
-| **_1%_** |    [Curso Web Moderno com JavaScript 2019! COMPLETO + Projetos](https://github.com/josemalcher/Curso-Web-Moderno-com-JavaScript-2019-COMPLETO-Projetos)  |  UDEMY  |
+| **_1%_** |  [Curso Web Moderno com JavaScript 2019! COMPLETO + Projetos](https://github.com/josemalcher/Curso-Web-Moderno-com-JavaScript-2019-COMPLETO-Projetos)  |  UDEMY  |
+| **_90%_** | [Curso Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex)](https://github.com/josemalcher/CODE3R-Curso-VueJS-2-O-Guia-Completo-incl-Vue-Router-Vuex)  |  UDEMY  |
 | **_100%_** |  [JavaScript para Iniciantes](https://github.com/josemalcher/curso-asolocoesweb-JAVASCRIPT-PARA-INICIANTES)  |  ASoluções Web  |
 | **_2%_** |    [Node.js para iniciantes](https://github.com/josemalcher/NodeBR-NodeJS-para-iniciantes)  |  Comunidade NodeBR  |
 | **_70%_** |   [Plano de Estudo - Frontend Developer](https://github.com/josemalcher/SchoolOfNet-plano-de-estudo-frontend-developer)  |  School of Net  |
