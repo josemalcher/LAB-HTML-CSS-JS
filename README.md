@@ -52,6 +52,7 @@
 | **_5%_** |    [Mean primeira aplicacao do zero](https://github.com/josemalcher/mean-primeira-aplicacao-do-zero)  |  UDEMY  |
 | **_1%_** |  [Curso Web Moderno com JavaScript 2019! COMPLETO + Projetos](https://github.com/josemalcher/Curso-Web-Moderno-com-JavaScript-2019-COMPLETO-Projetos)  |  UDEMY  |
 | **_90%_** | [Curso Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex)](https://github.com/josemalcher/CODE3R-Curso-VueJS-2-O-Guia-Completo-incl-Vue-Router-Vuex)  |  UDEMY  |
+| **_0%_** | [Desenvolvimento Web Avançado 2022 com Vue](https://github.com/josemalcher/Desenvolvimento-Web-Avancado-2022-com-Vue)  |  UDEMY  |
 | **_100%_** |  [JavaScript para Iniciantes](https://github.com/josemalcher/curso-asolocoesweb-JAVASCRIPT-PARA-INICIANTES)  |  ASoluções Web  |
 | **_2%_** |    [Node.js para iniciantes](https://github.com/josemalcher/NodeBR-NodeJS-para-iniciantes)  |  Comunidade NodeBR  |
 | **_70%_** |   [Plano de Estudo - Frontend Developer](https://github.com/josemalcher/SchoolOfNet-plano-de-estudo-frontend-developer)  |  School of Net  |
